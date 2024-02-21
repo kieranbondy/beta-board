@@ -1,23 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Area from './components/Area/Area';
+import Climb from './components/Climb/Climb';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Area></Area>
+      {/* <Climb difficulty={'red'} holdColor={'yellow'} beta={'https://www.youtube.com/embed/JXTSk28Ss5A'}></Climb> */}
     </div>
   );
 }

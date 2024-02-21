@@ -1,0 +1,36 @@
+.map-container{
+    width: 500px;
+    height: 500px;
+    background-image: url("../../resources/testArea.png");
+    background-size: cover;
+}
+.climb{
+    border: 1px red solid;
+    width: 30px;
+    border-radius: 5px;
+    
+}
+.climb-container{
+    padding-top: 105px;
+    padding-left: 115px;
+}
+.climb-1{
+    border: 1px blue solid;
+    width: 30px;
+    border-radius: 5px;
+    
+}
+.climb-container-1{
+    padding-top: 105px;
+    padding-left: 125px;
+}
+.climb-2{
+    border: 1px green solid;
+    width: 30px;
+    border-radius: 5px;
+    
+}
+.climb-container-2{
+    padding-top: 75px;
+    padding-left: 200px;
+}

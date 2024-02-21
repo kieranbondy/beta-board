@@ -1,0 +1,31 @@
+[
+    {
+        "id":0,
+        "title":"Supa Hot Fire",
+        "difficulty":"red",
+        "holdColor":"yellow",
+        "betaVideo":"https://www.youtube.com/embed/JXTSk28Ss5A",
+        "topPadding":"105px",
+        "leftPadding":"115px"
+    },
+    {
+        "id":1,
+        "title":"Easy Lemon Grove",
+        "difficulty":"orange",
+        "holdColor":"blue",
+        "betaVideo":"https://www.youtube.com/embed/DxhwnGBlsLs",
+        "topPadding":"105px",
+        "leftPadding":"125px"
+
+    },
+    {
+        "id":2,
+        "title":"Black Hole",
+        "difficulty":"black",
+        "holdColor":"green",
+        "betaVideo":"https://www.youtube.com/embed/Hy6SpI4vg-Y",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    }
+]
