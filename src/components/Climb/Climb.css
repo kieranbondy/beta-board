@@ -1,0 +1,15 @@
+.title{
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.header-container{
+    display:flex;
+    margin: 5%;
+}
+.info-container{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    margin: 12.5px;
+}

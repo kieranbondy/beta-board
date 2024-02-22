@@ -1,29 +1,127 @@
 [
     {
         "id":0,
-        "title":"Supa Hot Fire",
-        "difficulty":"red",
-        "holdColor":"yellow",
-        "betaVideo":"https://www.youtube.com/embed/JXTSk28Ss5A",
+        "title":"Pinky",
+        "difficulty":"yellow",
+        "holdColor":"Pink",
+        "betaVideo":"https://www.youtube.com/embed/CRJR7uIaLb4",
         "topPadding":"105px",
         "leftPadding":"115px"
     },
     {
         "id":1,
         "title":"Easy Lemon Grove",
-        "difficulty":"orange",
-        "holdColor":"blue",
-        "betaVideo":"https://www.youtube.com/embed/DxhwnGBlsLs",
+        "difficulty":"green",
+        "holdColor":"yellow",
+        "betaVideo":"https://www.youtube.com/embed/yKiDh2JSbuU",
         "topPadding":"105px",
         "leftPadding":"125px"
 
     },
     {
         "id":2,
-        "title":"Black Hole",
-        "difficulty":"black",
+        "title":"Macaroons",
+        "difficulty":"purple",
+        "holdColor":"orange",
+        "betaVideo":"",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":3,
+        "title":"Dark Moon",
+        "difficulty":"yellow",
+        "holdColor":"black",
+        "betaVideo":"https://www.youtube.com/embed/yN4n8omXvSs",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":4,
+        "title":"Break Yo' Finger",
+        "difficulty":"purple",
+        "holdColor":"blue",
+        "betaVideo":"",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":5,
+        "title":"Over the Hedge",
+        "difficulty":"orange",
         "holdColor":"green",
-        "betaVideo":"https://www.youtube.com/embed/Hy6SpI4vg-Y",
+        "betaVideo":"https://www.youtube.com/embed/ySRpDLUJ7pU",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":6,
+        "title":"Pinch me",
+        "difficulty":"red",
+        "holdColor":"pink",
+        "betaVideo":"https://www.youtube.com/embed/-yAx9h_LfE0",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":7,
+        "title":"Too Close to the Sun",
+        "difficulty":"black",
+        "holdColor":"yellow",
+        "betaVideo":"",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":8,
+        "title":"Bubbles",
+        "difficulty":"red",
+        "holdColor":"blue",
+        "betaVideo":"",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+    },
+    {
+        "id":9,
+        "title":"Crimp Stairmaster",
+        "difficulty":"orange",
+        "holdColor":"green",
+        "betaVideo":"https://www.youtube.com/embed/A4R2xNk5x7E",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+    },
+    {
+        "id":10,
+        "title":"1 2 step over you",
+        "difficulty":"purple",
+        "holdColor":"pink",
+        "betaVideo":"",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":11,
+        "title":"lose your teeth",
+        "difficulty":"red",
+        "holdColor":"blue",
+        "betaVideo":"https://www.youtube.com/embed/8nw8Q0sv5Qs",
+        "topPadding":"75px",
+        "leftPadding":"200px"
+
+    },
+    {
+        "id":12,
+        "title":"The Prophet",
+        "difficulty":"orange",
+        "holdColor":"orange",
+        "betaVideo":"https://www.youtube.com/embed/wpuowAPvsZo",
         "topPadding":"75px",
         "leftPadding":"200px"
 
