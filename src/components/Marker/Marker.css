@@ -1,0 +1,7 @@
+.icon{
+    background-image: url('../../resources/tape.png');
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 30px; /* Icon width */
+    height: 10px; /* Icon height */
+}

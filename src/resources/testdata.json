@@ -3,7 +3,8 @@
         "id":0,
         "title":"Pinky",
         "difficulty":"yellow",
-        "holdColor":"Pink",
+        "holdColor":"pink",
+        "holds": "Pink Jug",
         "betaVideo":"https://www.youtube.com/embed/CRJR7uIaLb4",
         "topPadding":"105px",
         "leftPadding":"115px"
@@ -13,6 +14,7 @@
         "title":"Easy Lemon Grove",
         "difficulty":"green",
         "holdColor":"yellow",
+        "holds": "Yellow Jug",
         "betaVideo":"https://www.youtube.com/embed/yKiDh2JSbuU",
         "topPadding":"105px",
         "leftPadding":"125px"
@@ -23,6 +25,7 @@
         "title":"Macaroons",
         "difficulty":"purple",
         "holdColor":"orange",
+        "holds": "Orange Sloper",
         "betaVideo":"",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -33,6 +36,7 @@
         "title":"Dark Moon",
         "difficulty":"yellow",
         "holdColor":"black",
+        "holds": "Black Moons",
         "betaVideo":"https://www.youtube.com/embed/yN4n8omXvSs",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -43,6 +47,7 @@
         "title":"Break Yo' Finger",
         "difficulty":"purple",
         "holdColor":"blue",
+        "holds": "Blue Slab",
         "betaVideo":"",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -53,6 +58,7 @@
         "title":"Over the Hedge",
         "difficulty":"orange",
         "holdColor":"green",
+        "holds": "Green Sloper",
         "betaVideo":"https://www.youtube.com/embed/ySRpDLUJ7pU",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -63,6 +69,7 @@
         "title":"Pinch me",
         "difficulty":"red",
         "holdColor":"pink",
+        "holds": "Pink Pinches",
         "betaVideo":"https://www.youtube.com/embed/-yAx9h_LfE0",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -73,6 +80,7 @@
         "title":"Too Close to the Sun",
         "difficulty":"black",
         "holdColor":"yellow",
+        "holds": "Yellow Huge",
         "betaVideo":"",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -82,6 +90,7 @@
         "id":8,
         "title":"Bubbles",
         "difficulty":"red",
+        "holds": "Blue Sloper",
         "holdColor":"blue",
         "betaVideo":"",
         "topPadding":"75px",
@@ -91,6 +100,7 @@
         "id":9,
         "title":"Crimp Stairmaster",
         "difficulty":"orange",
+        "holds": "Green Crimp",
         "holdColor":"green",
         "betaVideo":"https://www.youtube.com/embed/A4R2xNk5x7E",
         "topPadding":"75px",
@@ -101,6 +111,7 @@
         "title":"1 2 step over you",
         "difficulty":"purple",
         "holdColor":"pink",
+        "holds": "Pink Slab",
         "betaVideo":"",
         "topPadding":"75px",
         "leftPadding":"200px"
@@ -110,6 +121,7 @@
         "id":11,
         "title":"lose your teeth",
         "difficulty":"red",
+        "holds": "Blue Tension",
         "holdColor":"blue",
         "betaVideo":"https://www.youtube.com/embed/8nw8Q0sv5Qs",
         "topPadding":"75px",
@@ -120,6 +132,7 @@
         "id":12,
         "title":"The Prophet",
         "difficulty":"orange",
+        "holds": "Orange Whatevers",
         "holdColor":"orange",
         "betaVideo":"https://www.youtube.com/embed/wpuowAPvsZo",
         "topPadding":"75px",
